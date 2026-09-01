@@ -6,7 +6,7 @@ I'm a passionate Computer Science Engineering student interested in learning new
 
 # 🧠 ABOUT ME
 🎓 Currently pursuing Engineering in Computer Science & Engineering.
-💻 Interested in Programming, Web Development, and Software Development.
+<br>💻 Interested in Programming, Web Development, and Software Development.
 🌱 Currently learning and improving my technical skills.
 🧩 Love solving problems and building projects.
 📚 Always curious to learn something new.
