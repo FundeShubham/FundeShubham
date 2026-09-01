@@ -17,7 +17,7 @@ Web: HTML, CSS, JavaScript<br>
 Tools: Git, GitHub, VS Code<br>
 Database: MySQL.<br>
 
-##🎯 Goals
+## 🎯 Goals
 
 To continuously learn, build real-world projects, and become a skilled software developer.
 
