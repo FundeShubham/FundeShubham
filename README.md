@@ -2,41 +2,58 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hello%2C+World!+I'm+Shubham+%F0%9F%91%8B;Computer+Science+Student;Learning.+Building.+Debugging.;Turning+Ideas+Into+Code." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Hello%2C+World!+I'm+Shubham+%F0%9F%91%8B;Curious+Mind.+Limitless+Exploration.;Exploring+AI%2C+Technology+%26+Innovation.;Learning.+Experimenting.+Building." alt="Typing animation" />
 
-### `SYSTEM STATUS: ONLINE`
+### Curious Mind. Limitless Exploration.
 
-**Computer Science Student | Aspiring Software Developer**
+**Computer Science Student | Technology Explorer | AI Enthusiast**
 
 [![GitHub](https://img.shields.io/badge/GitHub-FundeShubham-00FF9C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FundeShubham)
-[![Profile](https://img.shields.io/badge/Developer-Cyberpunk-8A2BE2?style=for-the-badge)](https://github.com/FundeShubham)
 
 </div>
 
 ---
 
-## `01. ABOUT_ME`
+## `01. WHO_AM_I`
 
 ```bash
 $ whoami
 
-Name      : Shubham Funde
-Role      : Computer Science Student
-Focus     : Programming & Software Development
-Mindset   : Learn -> Build -> Improve -> Repeat
-Status    : Building my developer journey...
+Name       : Shubham Funde
+Role       : Computer Science Student
+Identity   : Technology Explorer
+Interests  : AI, Programming & Emerging Tech
+Mindset    : Curious & Experimental
+Philosophy : Never Stop Exploring
+Status     : Always Learning Something New
 ```
 
-- 💻 Interested in programming and problem-solving.
-- 🐍 Learning Python, C++ and Java.
-- 🧠 Exploring Data Structures and Algorithms.
-- 🗄️ Learning Database Management Systems.
-- 🚀 Building projects to improve practical skills.
-- 🎯 Goal: Become a skilled software developer.
+Hey! I'm Shubham, a Computer Science student with a curiosity for technology and innovation.
+
+I enjoy exploring different areas of technology, experimenting with new tools, understanding how things work and turning interesting ideas into practical projects.
+
+I'm not limiting myself to a single technology or career path. I believe the best way to understand technology is to explore it, experiment with it and build with it.
 
 ---
 
-## `02. TECH_STACK`
+## `02. AREAS_OF_EXPLORATION`
+
+| Field | What I'm interested in |
+|---|---|
+| 🤖 Artificial Intelligence | AI tools, machine learning and intelligent applications |
+| 💻 Software Development | Programming, applications and problem-solving |
+| 🌐 Web Development | Websites, frontend and backend technologies |
+| 🔐 Cybersecurity | Computer security and ethical hacking |
+| ☁️ Cloud & DevOps | Cloud platforms, deployment and automation |
+| 📊 Data Science | Data analysis and discovering insights |
+| 🔌 IoT & Electronics | Smart devices and connected systems |
+| 🚀 Emerging Technologies | New innovations and experimental ideas |
+
+*These are areas I'm interested in exploring, not claims of professional expertise.*
+
+---
+
+## `03. MY_TECH_STACK`
 
 ### Programming Languages
 
@@ -44,73 +61,81 @@ Status    : Building my developer journey...
 <img src="https://skillicons.dev/icons?i=python,cpp,java" />
 </p>
 
-### Tools & Technologies
+### Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
 </p>
 
+### AI & Technology Exploration
+
+- Exploring AI-powered tools and workflows.
+- Experimenting with AI-assisted development.
+- Learning about emerging technologies.
+- Discovering new development tools and platforms.
+
 ---
 
-## `03. CURRENT_MISSION`
+## `04. CURRENT_MISSIONS`
 
 ```text
-[ACTIVE MISSIONS]
+[ACTIVE EXPLORATION]
 
-[+] Improve problem-solving skills
-[+] Practice Data Structures & Algorithms
-[+] Strengthen programming fundamentals
-[+] Build practical coding projects
-[+] Improve Git and GitHub workflow
+[+] Strengthening programming fundamentals
+[+] Exploring Artificial Intelligence
+[+] Practicing Data Structures & Algorithms
+[+] Experimenting with new technologies
+[+] Improving problem-solving skills
+[+] Building practical projects
 
-[!] Next objective: Build real-world applications
+[NEXT OBJECTIVE]
+
+Explore more. Learn more. Build something meaningful.
 ```
 
 ---
 
-## `04. FEATURED_REPOSITORIES`
+## `05. PROJECTS_AND_EXPERIMENTS`
 
-| Repository | Description |
+A collection of my learning projects, programming experiments and practical implementations.
+
+| Project | Repository |
 |---|---|
-| [Data Structures & Algorithms Lab](https://github.com/FundeShubham/Data-Structures-and-Algorithms-Lab) | DSA practice and lab programs |
-| [CPP](https://github.com/FundeShubham/CPP) | C++ programming practice |
-| [Python](https://github.com/FundeShubham/Python) | Python learning and programs |
-| [Java-Lab](https://github.com/FundeShubham/Java-Lab) | Java practical programs |
+| Data Structures & Algorithms | [Explore](https://github.com/FundeShubham/Data-Structures-and-Algorithms-Lab) |
+| C++ Programming | [Explore](https://github.com/FundeShubham/CPP) |
+| Python Programming | [Explore](https://github.com/FundeShubham/Python) |
+| Java Programming | [Explore](https://github.com/FundeShubham/Java-Lab) |
+
+More experiments and projects coming as I explore new technologies.
 
 ---
 
-## `05. GITHUB_ANALYTICS`
+## `06. GITHUB_ANALYTICS`
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=FundeShubham&show_icons=true&theme=dark&hide_border=true" height="165" />
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FundeShubham&layout=compact&theme=dark&hide_border=true" height="165" />
-
-<img src="https://streak-stats.demolab.com/?user=FundeShubham&theme=dark&hide_border=true" height="165" />
-
-</div>
-
-## `06. CONNECT_WITH_ME`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/FundeShubham)
+<img src="https://streak-stats.demolab.com/?user=FundeShubham&theme=dark&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
+## `07. MY_PHILOSOPHY`
+
+> Technology never stands still, and neither should curiosity.
+>
+> Explore beyond your comfort zone. Experiment beyond your knowledge. Build beyond your imagination.
+
+---
+
+## `08. CONNECT_WITH_ME`
+
 <div align="center">
 
-```bash
-> Learning never stops.
-> Every bug is a lesson.
-> Every project is progress.
-```
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/FundeShubham)
 
-### `ACCESS GRANTED. WELCOME TO MY REPOSITORIES.`
+### `KEEP EXPLORING. KEEP BUILDING.`
 
-**Thanks for visiting my profile!**
+**Thanks for visiting my digital space!**
 
 </div>
