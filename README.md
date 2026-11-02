@@ -83,15 +83,13 @@ Status    : Building my developer journey...
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FundeShubham&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=8A2BE2" />
+<img src="https://github-readme-stats.vercel.app/api?username=FundeShubham&show_icons=true&theme=dark" height="165" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FundeShubham&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FundeShubham&layout=compact&theme=dark" height="165" />
 
-<img width="95%" src="https://streak-stats.demolab.com?user=FundeShubham&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=8A2BE2&currStreakLabel=00FF9C" />
+<img src="https://streak-stats.demolab.com/?user=FundeShubham&theme=dark" height="165" />
 
 </div>
-
----
 
 ## `06. CONNECT_WITH_ME`
 
