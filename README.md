@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Hii%2C++I'm+Shubham+%F0%9F%91%8B;Curious+Mind.+Limitless+Exploration.;Exploring+AI%2C+Technology+%26+Innovation.;Learning.+Experimenting.+Building." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shubham+%F0%9F%91%8B;Curious+Mind.+Limitless+Exploration.;Exploring+AI%2C+Technology+%26+Innovation.;Learning.+Experimenting.+Building." alt="Typing animation" />
 
 ### Curious Mind. Limitless Exploration.
 
 **Computer Science Student | Technology Explorer | AI Enthusiast**
 
-[![GitHub](https://img.shields.io/badge/GitHub-FundeShubham-00FF9C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FundeShubham)
+[![GitHub](https://img.shields.io/badge/GitHub-FundeShubham-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FundeShubham)
 
 </div>
 
@@ -110,17 +110,7 @@ More experiments and projects coming as I explore new technologies.
 
 ---
 
-## `06. GITHUB_ANALYTICS`
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=FundeShubham&theme=dark&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-## `07. MY_PHILOSOPHY`
+## `06. MY_PHILOSOPHY`
 
 > Technology never stands still, and neither should curiosity.
 >
@@ -128,11 +118,11 @@ More experiments and projects coming as I explore new technologies.
 
 ---
 
-## `08. CONNECT_WITH_ME`
+## `07. CONNECT_WITH_ME`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/FundeShubham)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-8B5CF6?style=for-the-badge&logo=github)](https://github.com/FundeShubham)
 
 ### `KEEP EXPLORING. KEEP BUILDING.`
 
