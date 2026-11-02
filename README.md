@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Hello%2C+World!+I'm+Shubham+%F0%9F%91%8B;Curious+Mind.+Limitless+Exploration.;Exploring+AI%2C+Technology+%26+Innovation.;Learning.+Experimenting.+Building." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Hii%2C++I'm+Shubham+%F0%9F%91%8B;Curious+Mind.+Limitless+Exploration.;Exploring+AI%2C+Technology+%26+Innovation.;Learning.+Experimenting.+Building." alt="Typing animation" />
 
 ### Curious Mind. Limitless Exploration.
 
